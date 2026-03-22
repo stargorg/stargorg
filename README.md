@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stargorg
 - 👀 I’m interested in learning about github
-- 🌱 I’m currently learning a raft of skills about investing
 - 💞️ I’m looking to collaborate on ... nothing at this stage
 - 📫 How to reach me ... boffin2@gmail.com
 
